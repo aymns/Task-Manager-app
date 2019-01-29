@@ -1,5 +1,5 @@
 # Task manager app
-Simple task managing application, built using [firestarter](ttps://github.com/codediodeio/angular-firestarter.git)
+Simple task managing application, built using [firestarter](https://github.com/codediodeio/angular-firestarter.git)
 
 ## Features
 
