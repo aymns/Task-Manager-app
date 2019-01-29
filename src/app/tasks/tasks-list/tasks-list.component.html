@@ -1,0 +1,9 @@
+<h1>Tasks</h1>
+
+<hr>
+<nav>
+<a routerLink="/task/add" routerLinkActive="active">Add task</a>
+</nav>
+<div *ngFor="let task of tasks | async">
+    <task-detail [task]="task"></task-detail>
+</div>
